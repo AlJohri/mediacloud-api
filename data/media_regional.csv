@@ -1,0 +1,437 @@
+media_id,media_name,media_url
+23,The Oregonian,http://www.oregonlive.com/oregonian/
+28,The Miami Herald,http://www.miamiherald.com/
+39,South Florida Sun-Sentinel,http://www.sun-sentinel.com/
+88,Tulsa World ,http://www.tulsaworld.com/
+705,Bates Line,http://www.batesline.com
+725,Brewed Fresh Daily,http://www.brewedfreshdaily.com/
+1108,WEEK-TV NBC,http://www.week.com/
+1152,Star Community Newspapers,http://www.scntx.com
+1153,The Star Group,http://www.thestargroup.com
+1155,The Alvardo Star,http://www.alvaradostar.net/
+1156,Azle News,http://www.azle-news.com/
+1157,Dallas Business Journal,http://dallas.bizjournals.com/dallas/
+1158,Today Newspapers Online,http://todaynewspapers.net/
+1160,Commerce Journal,http://www.commercejournal.com
+1161,Commercial Recorder,http://www.commercialrecorder.com
+1163,Daily Commercial Record,http://www.dailycommercialrecord.com/
+1164,Denton Record-Chronicle,http://www.dentonrc.com/
+1165,Ellis County Chronicle,http://elliscountychronicle.com/
+1166,Ellis County Press,http://www.elliscountypress.com/
+1167,Farmersville Times,http://www.farmersvilletimes.com/
+1168,Focus Daily News,http://focusdailynews.com/
+1169,Fort Worth Business Press  - Homepage,http://www.fwbusinesspress.com/
+1173,Johnson City Record Courier,http://www.jcrecordcourier.com/
+1174,Herald Banner,http://www.heraldbanner.com/
+1176,Kaufman Herald,http://www.kaufmanherald.com/
+1177,Lake Cities Sun,http://www.lakecitiessun.com/
+1179,The Monitor,http://themonitor.net/
+1183,Park Cities People,http://peoplenewspapers.com/me2/splash.asp
+1184,Pilot Point Post-Signal,http://postsignal.com/
+1189,Texas Lawyer,http://www.law.com/jsp/tx/index.jsp
+1190,Terrell Tribune,http://www.terrelltribune.com/
+1191,Aubrey Town Charter,http://www.thetowncharter.com/
+1192,Waxahachie Daily Light,http://www.thedailylight.com/
+1193,Weatherford Democrat,http://www.weatherforddemocrat.com/
+1194,Wise County Messenger,http://www.wcmessenger.com/
+1195,Wylie News,http://www.wylienews.com
+1196,KDTN Daystar,http://www.daystar.com
+1197,KDFW Fox 4,http://www.myfoxdfw.com/myfox/
+1198,KXAS NBC 5,http://www.nbcdfw.com/
+1199,WFAA ABC,http://www.wfaa.com/
+1200,KTVT CBS 11,http://cbs11tv.com/
+1202,KERA PBS,http://www.kera.org/tv
+1203,KTXA,http://cbs11tv.com/ktxa
+1205,Azteca America,http://aztecaamerica.terra.com/
+1206,KUVN Univision,http://www.univision.com/content/channel.jhtml?chid=9683&schid=9684
+1207,KDFI My Network TV,http://www.kdfi27.com/
+1208,KMPX,http://www.kmpx29.tv/
+1209,KDAF The CW,http://www.the33tv.com/pages/main
+1211,KXTX Telemundo,http://www.telemundodallas.com/index.html
+1212,TeleFutura,http://www.univision.com/content/channel.jhtml?chid=6&schid=1611
+1213,KATA Multimedios TV,http://www.multimedios.tv/
+1214,KFWD,http://www.kfwd.tv/
+1215,ION Television,http://www.iontelevision.com/
+1216,KERA FM,http://kera.org/radio
+1217,KFXR,http://cnn1190.com/main.html
+1218,KESN,http://sports.espn.go.com/stations/espn1033/
+1219,KHFX,http://www.1460foxsportsradio.com/
+1220,KLIF,http://www.klif.com/
+1222,KLUV,http://www.kluv.com/pages/2344080.php
+1223,KSKY,http://ksky.townhall.com/
+1224,KVCE,http://kvceradio.com/
+1225,KRLD,http://www.krld.com/
+1226,KTCK,http://www.theticket.com/
+1227,WBAP,http://wbap.com/
+1228,Dallas Morning News NeighborsGo Blog,http://www.neighborsgo.com/index.php?page_id=1000
+1229,The Agency Blog,http://blog.gallucci.net/
+1230,BarkingDogs.org | Taking back our neighborhood!,http://barkingdogs.org/news/
+1232,A Capital Idea,http://nstockdale.blogspot.com/
+1233,Cowtown Chronicles  ,http://www.cowtownchronicles.com/
+1235,Dallas Blog,http://www.dallasblog.com/
+1236,Dallas Uptown Guide,http://www.dallasuptownguide.com/
+1238, Fort Worthology,http://fortworthology.com/
+1239,Garry's Blog,http://grj.blogspot.com/
+1240,Dallas Metblogs,http://dallas.metblogs.com/
+1242,Pegasus News,http://www.pegasusnews.com/news/
+1243,PhotoJournalism,http://markhancock.blogspot.com/
+1245,Round The Mound,http://roundthemound.com
+1246,Unfair Park,http://blogs.dallasobserver.com/unfairpark/
+1247,Call Newspapers,http://www.callnewspapers.com/
+1248,Clayton News Daily,http://www.news-daily.com
+1249,Suburban Journals,http://suburbanjournals.stltoday.com/
+1250,Jefferson City News-Tribune,http://www.newstribune.com/
+1251,Missourian,http://www.emissourian.com/site/news.cfm?brd=1409&nr=1&nostat=1
+1252,New Haven Leader,http://newhavenleader.com/news/index.asp
+1253,The Odessan / Focus on Oak Grove,http://theodessan.net/
+1254,The St. Louis American,http://stlamerican.com/
+1255,St. Louis Business Journal,http://stlouis.bizjournals.com/stlouis/
+1256,St. Louis Daily Record,http://thedailyrecord.com/
+1257,Saint Louis Front Page,http://slfp.com/
+1258,Missouri Lawyers Weekly,http://www.molawyersweekly.com/
+1259,St. Louis Riverfront Times,http://www.riverfronttimes.com/
+1263,Sullivan Independent News,http://www.sullivannews.com/
+1264,Webster-Kirkwood Times,http://www.websterkirkwoodtimes.com/1homebody.lasso
+1265,South County Times,http://www.southcountytimes.com/1homebody.lasso
+1266,Lincoln County Journal,http://www.lincolncountyjournal.com/news/index.asp
+1268,Troy Free Press Online,http://www.troyfreepress.com/news/index.asp
+1269,KTVI FOX,http://www.myfoxstl.com/myfox/
+1270,KMOV CBS,http://www.kmov.com
+1271,KSDK NBC,http://www.ksdk.com
+1272,KETC PBS,http://www.ketc.org/index.asp
+1273,KPLR The CW,http://www.cw11tv.com/pages/main
+1274,KNLC,http://www.knlc.tv/
+1276,WRBU My Network TV,http://www.my46stl.com/
+1278,KDHX,http://www.kdhx.org/
+1279,KEZK-FM,http://www.kezk.com/
+1280,KMOX,http://www.kmox.com/pages/2615.php
+1281,KSLG,http://team1380.scbcreative-win.com/index.html
+1282,KTRS,http://ktrs.com/
+1283,KWMU,http://kwmu.org/index.php
+1284,KFTK,http://971talk.com/
+1286,Talk Radio 1190,http://www.talkradio1190.com/
+1287,AEC St. Louis  ,http://www.synergy-pr.com/aec/
+1288,Arch City Chronicle,http://www.archcitychronicle.com/
+1289,Blog Saint Louis,http://blogsaintlouis.com/
+1290,The Commonspace Blog,http://blog.thecommonspace.org/
+1291,Confluence,http://www.stlconfluence.org/
+1292,Kitchen Parade,http://kitchenparade.com/
+1293,LO-FI SAINT LOUIS  ,http://lofistl.com
+1294,MayorSlay.com,http://mayorslay.com/desk
+1295,Megan and Murray,http://meganandmurray.com/
+1296,The Overland Examiner,http://overlandexaminer.org/
+1297,St. Louis Schools Blog,http://stlschools.org/
+1298,DiatribeR ,http://www.diatriber.com/
+1299,STLmedia.net,http://stlmedia.net/
+1300,StlRecruiting,http://stlrecruiting.com/
+1301,STL Syndicate,http://www.stlsyndicate.com/
+1302,Urban Review STL  ,http://www.urbanreviewstl.com/
+1303,A Veggie Venture,http://kitchen-parade-veggieventure.blogspot.com/
+1304,What's New in Old North,http://onsl.org/blog/
+1306,All Around Cleveland,http://www.allaroundcleveland.com/site/news.asp?brd=2211
+1307,Chagrin Valley Times,http://www.chagrinvalleytimes.com/
+1309,Cleveland Jewish News,http://www.clevelandjewishnews.com/
+1310,Cleveland Stater,http://www.csuohio.edu/class/com/clevelandstater/
+1311,Crain's Cleveland Business,http://www.crainscleveland.com/apps/pbcs.dll/frontpage
+1312,Euclid Sun Journal,http://www.cleveland.com/euclidsunjournal/
+1315,Maple Heights Press,http://www.mapleheightspress.com/
+1316,Solon Sun - cleveland.com,http://www.cleveland.com/solonsun/index.ssf
+1317,The Observer,http://www.cwruobserver.com/
+1319,WEWS ABC,http://www.newsnet5.com/index.html
+1320,WJW Fox,http://www.myfoxcleveland.com/myfox/
+1321,WKYC NBC,http://www.wkyc.com/
+1322,WOIO CBS,http://www.woio.com/
+1324,WUAB,http://www.my43.net/
+1325,WCPN,http://www.wcpn.org/
+1326,WTAM,http://wtam.com/main.html
+1327,WHK,http://whkradio.townhall.com/
+1330,CoolCleveland,http://www.coolcleveland.com/
+1331,Cuyahoga County Planning Commission Weblog,http://planning.co.cuyahoga.oh.us/blog/
+1333,Meet the Bloggers,http://meetthebloggers.net/
+1334,REALNEO.US,http://realneo.us/
+1337,Biscayne Times Online,http://biscaynetimes.com/
+1338,Boca Raton News,http://www.bocanews.com/
+1339,Daily Business Review,http://www.dailybusinessreview.com/
+1340,Coral Gables Gazette,http://cggazette.com/
+1341,Jupiter Courier,http://www.tcpalm.com/tcp/jupiter_courier/
+1342,Miami New Times,http://www.miaminewtimes.com/
+1343,Miami Today News,http://miamitodaynews.com/
+1344,Palm Beach Daily News,http://www.palmbeachdailynews.com/
+1345,South Dade News Leader,http://southdadenewsleader.com/
+1346,Miami's Community Newspapers,http://www.communitynewspapers.com
+1347,South Florida Business Journal,http://southflorida.bizjournals.com/southflorida/
+1348,WPBT PBS,http://channel2.org/
+1349,WFOR CBS 4,http://cbs4.com/
+1350,WTVJ NBC 6,http://www.nbc6.net/index.html
+1351,WSVN FOX,http://www4.wsvn.com/
+1352,WPLG ABC,http://www.local10.com/index.html
+1353, WLRN PBS,http://www.wlrn.org/web/index.php
+1354,WSBS,http://mega.tv/
+1355,WBFS My Network TV,http://cbs4.com/wbfs/
+1356,WSFL-TV The CW,http://sfl.southflorida.com/pages/main
+1357,WHDT | MIG Broadcast Group,http://whdt.net/
+1358,WSCV Telemundo,http://www.telemundo51.com/index.html
+1359,WPTV NBC,http://www.wptv.com/default.aspx
+1360,WPEC CBS,http://www.cbs12.com/
+1361,WPBF ABC,http://www.wpbf.com/index.html
+1362,WFLX FOX,http://www.wflx.com/
+1363,WTVX The CW,http://www.34cwtv.com/default.aspx
+1364,WXEL PBS,http://wxel.org/index.php?sid=f3cd48518ca91b22947d03c1290fd60f
+1365,WTCN-CA,http://www.34cwtv.com/content/wtcn/default.aspx
+1366,WQAM,http://wqam.com/
+1367,WIOD,http://610wiod.com/main.html
+1368,WFTL,http://jamescrystalradio.com/
+1369,WINZ,http://www.am940southflorida.com/main.html
+1370,WAXY,http://790theticket.com/
+1371,WKAT,http://1360wkat.com/pcsite/home-1.htm
+1372,Infomaniac: Behind the News,http://newsresearch.blogspot.com/
+1373,Coral Gables,http://coral-gables.blogspot.com/
+1374,Critical Miami,http://criticalmiami.com/
+1376,The Daily Pulp: Bob Norman's Blog,http://blogs.browardpalmbeach.com/pulp/
+1377,Dave Barry's Blog,http://blogs.herald.com/dave_barrys_blog/
+1378,hidden city,http://hiddencity.net/
+1379,Miami Metblogs,http://miami.metblogs.com/
+1380,Miami Beach 411,http://www.miamibeach411.com/
+1382,Miami Beach Blog ,http://miamibeachblog.com/
+1383,Miamist,http://miamist.com/index.php
+1384,Miamista,http://miamista.blogspot.com
+1385,Overtown USA,http://overtownusa.blogspot.com/
+1386,sex and the beach,http://sexandthebeach.blogspot.com/
+1387,South Florida,http://so-fla.blogspot.com/
+1389, William M. Hartnett,http://www.wmhartnett.com/
+1390,33154 Buzz,http://33154buzz.blogspot.com/
+1391,The Beaverton Valley Times,http://beavertonvalleytimes.com/news/index.php
+1392,Canby Herald,http://canbyherald.com/
+1393,Daily Journal of Commerce,http://www.djcoregon.com/home.htm
+1394,Estacada News,http://estacadanews.com/news/index.php
+1395,Hillsboro Argus,http://www.oregonlive.com/argus/
+1396,Lake Oswego Review,http://lakeoswegoreview.com/news/index.php
+1397,Forest Grove News-Times,http://fgnewstimes.com/news/index.php
+1398,Portland Mercury,http://www.portlandmercury.com/portland/home
+1399,The Sandy Post,http://sandypost.com/news/index.php
+1400,The Times,http://tigardtimes.com/news/index.php
+1401,West Linn Tidings,http://westlinntidings.com/news/index.php
+1402,Willamette Week,http://wweek.com/
+1403,Wilsonville Spokesman,http://wilsonvillenews.com/
+1404,KATU ABC,http://www.katu.com/
+1406,KOIN CBS,http://www.koinlocal6.com/default.aspx
+1407,KGW NBC,http://www.kgw.com/
+1409,KOPB,http://www.opb.org/
+1410,KPTV FOX 12,http://www.kptv.com/index.html
+1411,KUNP-LP Univision ,http://kunptv.com/
+1412,KPDX My Network TV ,http://www.kpdx.com/index.html
+1413,KPOJ,http://620kpoj.com/main.html
+1414,KXL,http://kxl.com/
+1415,KCMD,http://www.970.am/
+1416,KFXX,http://www.1080thefan.com/
+1417,KEX,http://1190kex.com/main.html
+1418,KBNP ,http://www.kbnp.com/home.html
+1419,Altportland.com,http://www.altportland.com/
+1420,"Blogtown, PDX",http://blogtown.portlandmercury.com/blogs/blogtownpdx/
+1421,BootsnAll Travel Network,http://www.bootsnall.com/
+1422,CommissionerSam.com,http://www.commissionersam.com/
+1423,East PDX News,http://www.eastpdxnews.com/
+1424,Future of Real Estate Marketing - Real Estate 2.0,http://www.futureofrealestatemarketing.com/
+1425,Heardinmycab,http://heardinmycab.blogspot.com/
+1426,Portland Metblogs,http://portland.metblogs.com/
+1427, Mid-county Memo Blog ,http://midcountymemo.com/memlog/
+1428,The Multnomah Villager  ,http://www.multnomahvillager.com/
+1429,Newsdesigner.com,http://newsdesigner.com/blog/
+1430,Michael Durham Photography,http://oregonwild.blogspot.com/
+1431,Portland Communique,http://communique.portland.or.us/
+1432,Portland Ground,http://www.portlandground.com/
+1433,Portland Kid Stuff,http://www.blogcatalog.com/blogs/portland-kid-stuff.html
+1434,PortlandPics Photography,http://www.portlandpics.com/
+1435, Portland Public Art,http://portlandpublicart.wordpress.com/
+1436,The Portland Alliance,http://theportlandalliance.org/
+1437,The Oregonian's Public Editor,http://www.oregonlive.com/weblogs/publiceditor/
+1438,Tech Drool,http://caffeinepete.blogspot.com/
+1439,Bartlesville Examiner-Enterprise,http://examiner-enterprise.com/
+1441,Neighbor Newspapers,http://neo.neighbornews.com/
+1442,Claremore Daily Progress,http://claremoreprogress.com/
+1447,Pawhuska Journal Capital,http://www.pawhuskajournalcapital.com/
+1448,Sapulpa Herald Online,http://www.sapulpaheraldonline.com/
+1451,KJRH NBC,http://www.kjrh.com/default.aspx
+1452,KOTV CBS,http://www.newson6.com/
+1455,Tulsa Beacon,http://www.tulsabeacon.com
+1457,http://www.clevelandamerican.com,http://www.clevelandamerican.com
+1460,Oologah Lake Leader Online,http://www.oologah.net
+1461,The Bigheart Times,http://www.bighearttimes.com
+1467,KBIX/KYAL,http://www.sportsanimaltulsa.com
+1468,KRMG,http://krmg.com
+1469,KFAQ,http://1170kfaq.com
+1470,KAKC,http://www.1300kakc.com/main.html
+1471,The Diag - MLive.com,http://blog.mlive.com/thediag/
+1472, YpsiNews.com,http://ypsinews.com
+1473,Jim Carty's Analysis and Opinion ,http://blog.mlive.com/jim_carty/
+1474,ypsi~dixit,http://www.ypsidixit.com/blog/
+1475,Arbor Update,http://www.arborupdate.com
+1476,Ann Arbor News,http://blog.mlive.com/annarbornews/
+1477,Overheard in Ann Arbor,http://overheardina2.blogspot.com
+1478,Ann Arbor After Dark,http://blog.mlive.com/ann_arbor_after_dark/
+1479,Ann Arbor News Extra,http://blog.mlive.com/ann_arbor_news_extra/
+1480,"Vacuum - Edward Vielmetti in Ann Arbor, Michigan 48104",http://vielmetti.typepad.com/vacuum/
+1481,Ann Arbor is Overrated,http://www.annarborisoverrated.com
+1482,Carfree Ann Arbor,http://cfa2.blogspot.com
+1483,The Chelsea Blog,http://chelsea-mi.blogspot.com
+1484,WAAM,http://www.waamannarbor.com
+1486,Chelsea Standard,http://www.chelseastandard.com
+1487,WUOM,http://www.michiganradio.org
+1489,WTKA,http://www.wtka.com
+1490,MLive.com,http://www.mlive.com
+1492,The Michigan Daily,http://www.michigandaily.com
+1493,Dexter Leader,http://www.dexterleader.com
+1496,WLOS ABC,http://www.wlos.com
+1497,Smoky Mountain News,http://www.smokymountainnews.com
+1498,Asheville Citizen-Times,http://www.citizen-times.com/apps/pbcs.dll/frontpage
+1499,Times-News,http://www.blueridgenow.com/
+1500,WISE,http://www.1310bigwise.com
+1501,Mountain Rebel,http://mountainrebel.net/
+1502,BlogAsheville,http://blogasheville.blogspot.com
+1503,La Voz Independiente,http://www.lavozindependiente.com
+1504,Black Mountain News,http://www.citizen-times.com/apps/pbcs.dll/section?category=blackmountainnews
+1505,WUNF PBS,http://www.unctv.org
+1506,WCQS,http://www.wcqs.org
+1507,"Asheville, NC 2008 | Visitor Center | Relocation Information Guide | Local Classifieds",http://ashevillenative.com
+1508,The Mountaineer,http://www.themountaineer.com/cms/display/Top_Stories/
+1509,WHNS FOX,http://www.foxcarolina.com/index.html
+1510,WWNC,http://www.wwnc.com/main.html
+1511,Mountain Xpress,http://www.mountainx.com
+1512,STNG,http://www.pioneerlocal.com/index.html
+1513,Central Illinois Proud,http://centralillinoisproud.com/
+1514,WCBU-FM,http://www.wcbufm.org
+1515,Peoria Journal Star,http://www.pjstar.com
+1516,WAOE My Network TV,http://my59.tv
+1517,WTVP PBS,http://www.wtvp.org
+1518,WHOI-TV ABC,http://www.week.com/whoi
+1519,WMBD,http://www.1470wmbd.com
+1520, The Peoria Chronicle,http://peoriachronicle.com
+1521,WZPN-FM,http://www.965espn.com
+1522,WTVR-TV CBS,http://www.wtvr.com
+1523,WXGI,http://www.espn950am.com
+1524,Style Weekly,http://www.styleweekly.com/ME2/Default.asp
+1525,RiverCityRapids,http://rivercityrapids.blogspot.com
+1526,RVABlogs ,http://rvablogs.com
+1527,WRLH FOX,http://www.foxrichmond.com
+1528,Virginia Lawyers Weekly,http://www.valawyersweekly.com
+1529,WCVE Public Radio,http://www.ideastations.org/wcvefm/
+1530,The Community Weekly,http://www.tcweekly.com
+1531,Race to Richmond,http://voices.washingtonpost.com/racetorichmond/
+1532,WRNL,http://www.sportsradio910.com/main.html
+1534,Blog Net News,http://blognetnews.com/virginia/
+1535,Richmond & Hampton Roads Voice Newspapers,http://www.voicenewspaper.com
+1536,Church Hill People's News,http://chpn.net/news/
+1537,Fifty Plus,http://www.fiftyplusrichmond.com
+1538,WRIC-TV ABC,http://www.wric.com
+1539,WRVA,http://1140wrva.com/main.html
+1540,Chesterfield Observer,http://www.chesterfieldobserver.com
+1541,Soul of Virginia,http://www.soulofvirginia.com
+1542,Henrico Citizen Online,http://www.henricocitizen.com
+1543,WWBT NBC/WB,http://www.nbc12.com
+1544,Save Richmond,http://saverichmond.com
+1545,West of the Boulevard News,http://wotbn.net
+1546,Richmond Blog Squad,http://richmondmagazine.blogspot.com
+1547,Richmond Times-Dispatch,http://www.inrich.com/cva/ric/home.html
+1549,KOKI FOX,http://www.fox23.com
+1551,Living On Tulsa Time,http://www.livingontulsatime.com/blog/
+1552,KQCW The CW,http://www.cw12-19.com/
+1553,Downtown Tulsa,http://downtowntulsa.blogspot.com
+1554,Tulsa Police Blog,http://tpdblog.typepad.com/
+1555,Tulsa Topics,http://www.tulsatopics.com/tulsatopics/
+1556,KOED PBS,http://www.oeta.onenet.net
+1557,Oklahoma Wine News,http://www.nuyakacreek.com/blog/blogger.html
+1558,KTUL ABC,http://www.ktul.com
+1560,KMYT My Network TV ,http://www.fox23.com/content/my41tulsa/my41tulsaNEW/default.aspx
+1561,Paddletales - Oklahoma Road Trips Blog,http://www.oklahomaroadtrips.com/paddle.htm
+1562,Tulsa TV Memories,http://tulsatvmemories.com
+1567,WEVD-LP ABC,http://www.wmdt.com
+1568,WCAV,http://www.charlottesvillenewsplex.tv
+1569,The Hook News Blog  ,http://www.readthehook.com/blog/
+1570,cVillain ,http://cvillain.com/
+1571,Smart Communities,http://smartcommunities.typepad.com
+1572,WDAY,http://www.wday.com
+1573,Enderlin Independent: North Dakota,http://www.enderlinindependent.com
+1574,KZAZ,http://www.nwpr.org
+1575,The Northern Light,http://www.thenorthernlight.com
+1576,Cass County Reporter,http://www.ccreporter.com
+1577,Fargoing,http://fargoing.blogspot.com
+1578,KVOS,http://www.kvos.com/home.aspx
+1579,C-VILLE,http://www.c-ville.com
+1580,The Hook,http://www.readthehook.com
+1581,KVOX,http://www.740thefan.com/
+1582,KPUG,http://www.kpug1170.com
+1583,KFME PBS,http://www.prairiepublic.org
+1584,Whatcom Watch,http://www.whatcomwatch.org/php/WW_open.php
+1585,WBOC-TV,http://www.wboc.com
+1586,KXJB CBS,http://www.kx4.com
+1587,KMAV,http://www.kmavradio.com
+1588,Ferndale Record-Journal,http://www.ferndalerecordjournal.com
+1589,The Bellingham Herald,http://www.bellinghamherald.com
+1590,"Dover, Delaware State News",http://www2.newszap.com/delaware/dover/
+1591,The Insider,http://whatcom.blogs.com/insider/
+1592,Lynden Tribune,http://www.lyndentribune.com
+1593,MegaAwesome ,http://www.megaawesome.com
+1594,Cascadia Weekly,http://www.cascadiaweekly.com
+1595,KFGO,http://www.kfgo.com
+1596,Fargo Metro News,http://www.topix.net/metro/fargo-moorhead-nd-mn
+1597,KQWB,http://1660espn.net/
+1598,Fargo Forum,http://www.in-forum.com
+1599,Dover Post,http://www.doverpost.com
+1601,Fargophilia,http://www.areavoices.com/azraelbrown/
+1602,Cavalier Daily,http://www.cavalierdaily.com
+1603,The Spectrum,http://www.ndsuspectrum.com/new/
+1604,The Bellingham Real Estate Blog,http://www.johnsonteamrealestate.com/blog/
+1605,AS Review,http://asreview.as.wwu.edu
+1606,The Bellingham Business Journal,http://thebellinghambusinessjournal.com
+1607,WVIR NBC,http://www.nbc29.com
+1608,Charlottesville Daily Progress,http://www.dailyprogress.com
+1609,WINA,http://www.wina.com
+1610,WDOV,http://www.wdov.com/main.html
+1611,http://cp2.abhost.net/suspended.page/,http://cp2.abhost.net/suspended.page/
+1612,KGMI,http://www.kgmi.com
+1613,The Western Front,http://www.westernfrontonline.com
+1614,High Plains Reader,http://hpr1.com/
+1615,WXCO,http://www.wxco.com
+1616,WSAU,http://www.wsau.com
+1617,Central Wisconsin News,http://www.centralwinews.com
+1618,WFXS FOX,http://www.myfoxwausau.com/myfox/
+1619,Marshfield News-Herald,http://www.marshfieldnewsherald.com
+1620,WAOW ABC,http://www.waow.com
+1621,WHRM PBS,http://www.wpt.org
+1622,Wausau City Pages,http://www.thecitypages.com
+1623,Wausau Daily Herald,http://www.wausaudailyherald.com
+1624,WSAW CBS,http://www.wsaw.com
+1625,Wausaublog.Org,http://wausaublog.wordpress.com
+1629,WKNR and WWGK,http://www.espncleveland.com/
+1630,"The new Sun News, Cleveland, Ohio, Home Page",http://www.cleveland.com/sun
+1632,Cleveland Scene,http://www.freetimes.com
+1636,Daily Legal News,http://www.dln.com/
+1637,West Life,http://www.westlifenews.com/
+1641,cleveland.com,http://www.cleveland.com/
+1644,WERE,http://www.1300were.com/home.asp
+1647,WVIZ PBS,http://www.wviz.org/
+1652, Centraldentonpreservation.org			 - 					Central Denton Texas Resources and Information. 			 					This website is for sale!,http://www.centraldentonpreservation.org
+1659,Dallas Air America,http://www.dallasairamerica.org
+1661, Danm.us			 - 					danm Resources and Information. 			 					This website is for sale! 			,http://www.danm.us/blog
+1666,Entertainment Law,http://ipandentertainmentlaw.wordpress.com
+1676,Plano Blog,http://planohomesandland.com
+1686,The Community News,http://www.community-news.com
+1688,Cleburne Times-Review,http://www.cleburnetimesreview.com
+1692,Fort Worth Weekly,http://www.fwweekly.com
+1694,Fort Worth Star-Telegram,http://www.star-telegram.com
+1695,Denied:1up! Software (),http://denied.going1up.com/index.asp?lakecitiessun.com
+1696,Huntsville Item,http://www.itemonline.com
+1697,Mansfield News-Mirror,http://www.mansfieldnewsmirror.com
+1699,Murphy Monitor,http://www.murphymonitor.com
+1700,NW Tarrant Co. Times-Record,http://www.timesrecordonline.com
+1701,PRINCETON HERALD,http://www.princetonherald.com
+1702,Park Cities News,http://www.parkcitiesnews.com
+1703,Sachse News,http://www.sachsenews.com
+1704,Texas Jewish Post,http://tjpnews.com/
+1705,Rockwall County News,http://www.rockwallcountynews.com
+1714,Manchester Enterprise,http://www.manchesterenterprise.com/
+1715,Milan News-Leader,http://www.milannews.com/
+1716,Saline Reporter,http://www.salinereporter.com/
+1717,WCVE PBS,http://ideastations.org/wcve/
+1718,WCVW PBS,http://ideastations.org/wcvw/
+1719,WHTJ PBS,http://www.whtjtv.org/
