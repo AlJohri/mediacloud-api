@@ -1,0 +1,549 @@
+tags_id,tag,label,description,is_static,show_on_stories,show_on_media,tag_sets_id,tag_set_name,tag_set_label,tag_set_description
+5,U.S. Mainstream Media,U.S. Mainstream Media,Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users. Created in October 2010.,1,,1,3,usnewspapercirculation,,
+117,technorati_top_political_2008,Technorati U.S. Political Blogs 2008 ,List of top U.S. politics blogs according to Technorati in 2008.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+118,yahoo_top_political_2008,Yahoo U.S. Political Blogs 2008 ,Yahoo U.S. Political Blogs 2008 List of top U.S. politics blogs according to Yahoo in 2008.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+125,campaignsandelections_political_2008,U.S. Campaigns and Elections 2008,"List of sites related to U.S. politics, created for Yochai Benkler and Aaron Shaw's paper ""A Tale of Two Blogospheres: Discursive Practices on the Left and Right"", published in 2010.
+",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+129,major_american_wires,U.S. Wire Services,"Reuters, AP, and McClatchy. Created in October 2010.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+2453107,pew_knight_study,U.S. Regional Mainstream Media,"Large list of regional TV and newspapers sites, collected by Pew in 2010.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875027,U.S. Mainstream Media,U.S. Mainstream Media,Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users. Created in October 2010.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875028,bloglines_top1000_20091012,U.S. Popular Blogs,Most popular U.S. blogs according to blogline's list of top blogs in 2009-10.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875033,technorati_top_100_tech_21_july_2010,Tech Blogs,Top 100 Tech blogs according to technorati in 2010-07.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875034,technorati_top_100_infotech_21_july_2010,Infotech Blogs,Top 100 Infotech blogs according to technorati in 2010-07.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875107,technorati_top_100_tech_2_dec_2010,Technorati Tech Blogs,Top 100 tech blogs according to technorati in 2010.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875108,technorati_uspolitics_20100709_coded,U.S. Political Blogs,"Most influential U.S. political blogs according to technorati in 2010-07, manually verified for focus on politics.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875109,technorati_uspolitics_20100709_ideology_left,U.S. Political Blogs - Liberal,"Most influential liberal U.S. political blogs according to technorati in 2010-07, manually verified for focus on politics and coded as liberal.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875110,technorati_uspolitics_20100709_ideology_none,U.S. Political Blogs - Center,"Most influential liberal U.S. political blogs according to technorati in 2010-07, manually verified for focus on politics and coded as neither liberal nor conservative.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875111,technorati_uspolitics_20100709_ideology_right,U.S. Political Blogs - Conservative,"Most influential liberal U.S. political blogs according to technorati in 2010-07, manually verified for focus on politics and coded as conservative.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875112,whitehouse,The White House,A set consisting of only the single White House media source. Added in the fall of 2010.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875113,technorati_uspolitics_20100709_ideology_none_top25,U.S. Political Blogs - Center - Top 25,"25 most influential liberal U.S. political blogs according to technorati in 2010-07, manually verified for focus on politics and coded as neither liberal nor conservative.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875114,technorati_uspolitics_20100709_ideology_left_top25,U.S. Political Blogs - Liberal - Top 25,"25 most influential liberal U.S. political blogs according to technorati in 2010-07, manually verified for focus on politics and coded as liberal.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875115,technorati_uspolitics_20100709_ideology_right_top25,U.S. Political Blogs - Conservative - Top 25,"25 most influential liberal U.S. political blogs according to technorati in 2010-07, manually verified for focus on politics and coded as conservative.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875456,ca_initiatives_blogrolls_20120913,2012 California Political Blogs,List of California political blogs generated by using a manual snowball process of culling blogs from link from existing blogs in the set 2012-09.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875458,california_calitics_20120914,2012 California Liberal Political Blogs,Liberal blogs culled from the blog roll of http://calitics.com on 2012-09-14.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875459,california_bear_20120914,2012 California Conservative Political Blogs,Conservative blogs pulled from California Bear site at http://www.bearflagleague.com/list/.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875460,california_newspapers_20120914,2012 California Newspapers,"Large collection of local California newspapers, collected from http://www.usnpl.com/canews.php in 2012-09.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875471,conservative_radio,Conservative Radio,"Small list of conservative radio stations.  The sources in this set contain only content that is published on the the website of each station, which is not necessarily the same as the show content. Added in September 2012.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8875480,newyork_alicia_google_20121003,New York State Politics,Small list of sites focus on New York state politics.  Created by googling for various related terms in 2012-10.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8876474,europe_media_monitor_20121015,Europe Media Monitor,Large list of all sites collected by the Europe Media Monitor project (http://emm.newsbrief.eu). Added in October of 2012. Includes anywhere from five to dozens of sources from almost every country.  This is our main set for broad coverage of international mainstream media.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8876477,AT,Austria,Media sources labelled as from Austria in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876481,HU,Hungary,Media sources labelled as from Hungary in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876483,MT,Malta,Media sources labelled as from Malta in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876485,RO,Romania,Media sources labelled as from Romania in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876487,GB,United Kingdom,Media sources labelled as from United Kingdom in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876488,PT,Portugal,Media sources labelled as from Portugal in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876491,RU,Russian Federation,Media sources labelled as from Russian Federation in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876494,DE,Germany,Media sources labelled as from Germany in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876495,IR,"Iran, Islamic Republic of","Media sources labelled as from Iran, Islamic Republic of in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876498,NL,Netherlands,Media sources labelled as from Netherlands in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876501,RE,Reunion,Media sources labelled as from Reunion in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876503,IL,Israel,Media sources labelled as from Israel in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876507,LB,Lebanon,Media sources labelled as from Lebanon in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876509,US,United States,Media sources labelled as from United States in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876511,FR,France,Media sources labelled as from France in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876513,GN,Guinea,Media sources labelled as from Guinea in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876514,SK,Slovakia,Media sources labelled as from Slovakia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876516,BH,Bahrain,Media sources labelled as from Bahrain in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876517,IT,Italy,Media sources labelled as from Italy in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876519,ES,Spain,Media sources labelled as from Spain in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876521,SG,Singapore,Media sources labelled as from Singapore in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876522,JP,Japan,Media sources labelled as from Japan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876524,MD,"Moldova, Republic of","Media sources labelled as from Moldova, Republic of in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876525,HR,Croatia,Media sources labelled as from Croatia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876528,BE,Belgium,Media sources labelled as from Belgium in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876529,PH,Philippines,Media sources labelled as from Philippines in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876530,SV,El Salvador,Media sources labelled as from El Salvador in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876531,TD,Chad,Media sources labelled as from Chad in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876534,PL,Poland,Media sources labelled as from Poland in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876536,KG,Kyrgyzstan,Media sources labelled as from Kyrgyzstan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876537,NE,Niger,Media sources labelled as from Niger in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876539,KE,Kenya,Media sources labelled as from Kenya in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876540,KR,"Korea, Republic of","Media sources labelled as from Korea, Republic of in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876542,MA,Morocco,Media sources labelled as from Morocco in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876543,DZ,Algeria,Media sources labelled as from Algeria in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876545,CY,Cyprus,Media sources labelled as from Cyprus in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876547,HK,Hong Kong,Media sources labelled as from Hong Kong in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876549,NO,Norway,Media sources labelled as from Norway in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876551,AR,Argentina,Media sources labelled as from Argentina in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876554,CF,Central African Republic,Media sources labelled as from Central African Republic in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876555,UA,Ukraine,Media sources labelled as from Ukraine in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876556,SE,Sweden,Media sources labelled as from Sweden in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876558,TR,Turkey,Media sources labelled as from Turkey in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876560,BG,Bulgaria,Media sources labelled as from Bulgaria in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876562,CH,Switzerland,Media sources labelled as from Switzerland in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876563,BI,Burundi,Media sources labelled as from Burundi in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876565,FI,Finland,Media sources labelled as from Finland in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876567,BF,Burkina Faso,Media sources labelled as from Burkina Faso in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876568,CZ,Czech Republic,Media sources labelled as from Czech Republic in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876569,XX,None,,0,,1,556,emm_country,Europe Media Monitor Countries,
+8876571,KW,Kuwait,Media sources labelled as from Kuwait in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876572,SN,Senegal,Media sources labelled as from Senegal in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876573,DK,Denmark,Media sources labelled as from Denmark in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876575,ZA,South Africa,Media sources labelled as from South Africa in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876576,EG,Egypt,Media sources labelled as from Egypt in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876577,CD,"Congo, The Democratic Republic of the","Media sources labelled as from Congo, The Democratic Republic of the in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876579,CA,Canada,Media sources labelled as from Canada in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876580,KP,"Korea, Democratic People's Republic of","Media sources labelled as from Korea, Democratic People's Republic of in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876581,BY,Belarus,Media sources labelled as from Belarus in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876582,BD,Bangladesh,Media sources labelled as from Bangladesh in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876583,NP,Nepal,Media sources labelled as from Nepal in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876584,EC,Ecuador,Media sources labelled as from Ecuador in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876585,CN,China,Media sources labelled as from China in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876586,DO,Dominican Republic,Media sources labelled as from Dominican Republic in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876587,RW,Rwanda,Media sources labelled as from Rwanda in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876589,GY,Guyana,Media sources labelled as from Guyana in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876590,SA,Saudi Arabia,Media sources labelled as from Saudi Arabia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876591,CO,Colombia,Media sources labelled as from Colombia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876592,VN,Vietnam,Media sources labelled as from Vietnam in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876593,SI,Slovenia,Media sources labelled as from Slovenia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876595,LV,Latvia,Media sources labelled as from Latvia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876597,GR,Greece,Media sources labelled as from Greece in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876598,AE,United Arab Emirates,Media sources labelled as from United Arab Emirates in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876599,ZW,Zimbabwe,Media sources labelled as from Zimbabwe in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876600,KZ,Kazakhstan,Media sources labelled as from Kazakhstan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876601,IE,Ireland,Media sources labelled as from Ireland in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876602,AM,Armenia,Media sources labelled as from Armenia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876603,SC,Seychelles,Media sources labelled as from Seychelles in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876604,TN,Tunisia,Media sources labelled as from Tunisia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876605,CL,Chile,Media sources labelled as from Chile in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876606,IQ,Iraq,Media sources labelled as from Iraq in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876607,LT,Lithuania,Media sources labelled as from Lithuania in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876609,NA,Namibia,Media sources labelled as from Namibia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876610,AZ,Azerbaijan,Media sources labelled as from Azerbaijan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876611,BR,Brazil,Media sources labelled as from Brazil in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876612,MR,Mauritania,Media sources labelled as from Mauritania in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876613,TZ,"Tanzania, United Republic of","Media sources labelled as from Tanzania, United Republic of in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876615,AN,Netherlands Antilles,Media sources labelled as from Netherlands Antilles in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876617,MP,Northern Mariana Islands,Media sources labelled as from Northern Mariana Islands in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876619,GE,Georgia,Media sources labelled as from Georgia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876620,LU,Luxembourg,Media sources labelled as from Luxembourg in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876622,PK,Pakistan,Media sources labelled as from Pakistan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876624,PE,Peru,Media sources labelled as from Peru in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876625,HT,Haiti,Media sources labelled as from Haiti in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876626,TH,Thailand,Media sources labelled as from Thailand in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876627,SD,Sudan,Media sources labelled as from Sudan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876628,BA,Bosnia and Herzegovina,Media sources labelled as from Bosnia and Herzegovina in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876629,CU,Cuba,Media sources labelled as from Cuba in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876631,MG,Madagascar,Media sources labelled as from Madagascar in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876632,LA,Lao People's Democratic Republic,Media sources labelled as from Lao People's Democratic Republic in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876633,PY,Paraguay,Media sources labelled as from Paraguay in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876634,MY,Malaysia,Media sources labelled as from Malaysia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876635,MU,Mauritius,Media sources labelled as from Mauritius in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876636,KY,Cayman Islands,Media sources labelled as from Cayman Islands in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876637,CM,Cameroon,Media sources labelled as from Cameroon in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876638,PS,"Palestinian Territory, Occupied","Media sources labelled as from Palestinian Territory, Occupied in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876639,BB,Barbados,Media sources labelled as from Barbados in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876641,TG,Togo,Media sources labelled as from Togo in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876643,AU,Australia,Media sources labelled as from Australia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876644,MW,Malawi,Media sources labelled as from Malawi in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876645,YT,Mayotte,Media sources labelled as from Mayotte in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876646,LS,Lesotho,Media sources labelled as from Lesotho in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876648,SY,Syrian Arab Republic,Media sources labelled as from Syrian Arab Republic in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876649,LK,Sri Lanka,Media sources labelled as from Sri Lanka in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876650,ET,Ethiopia,Media sources labelled as from Ethiopia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876651,NZ,New Zealand,Media sources labelled as from New Zealand in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876652,BJ,Benin,Media sources labelled as from Benin in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876654,BW,Botswana,Media sources labelled as from Botswana in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876655,IN,India,Media sources labelled as from India in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876657,MV,Maldives,Media sources labelled as from Maldives in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876658,RS,Serbia,Media sources labelled as from Serbia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876660,LY,Libyan Arab Jamahiriya,Media sources labelled as from Libyan Arab Jamahiriya in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876661,GT,Guatemala,Media sources labelled as from Guatemala in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876662,ID,Indonesia,Media sources labelled as from Indonesia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876664,CI,Cote D'Ivoire,Media sources labelled as from Cote D'Ivoire in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876665,NG,Nigeria,Media sources labelled as from Nigeria in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876666,QA,Qatar,Media sources labelled as from Qatar in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876669,TW,"Taiwan, Province of China","Media sources labelled as from Taiwan, Province of China in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876670,VI,"Virgin Islands, U.S.","Media sources labelled as from Virgin Islands, U.S. in the European Media Monitor tool (2014)",0,,1,556,emm_country,Europe Media Monitor Countries,
+8876671,SO,Somalia,Media sources labelled as from Somalia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876672,BO,Bolivia,Media sources labelled as from Bolivia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876674,PW,Palau,Media sources labelled as from Palau in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876675,OM,Oman,Media sources labelled as from Oman in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876676,JO,Jordan,Media sources labelled as from Jordan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876677,EE,Estonia,Media sources labelled as from Estonia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876680,GF,French Guiana,Media sources labelled as from French Guiana in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876683,GD,Grenada,Media sources labelled as from Grenada in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876684,ME,Montenegro,Media sources labelled as from Montenegro in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876686,YE,Yemen,Media sources labelled as from Yemen in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876687,LR,Liberia,Media sources labelled as from Liberia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876688,TJ,Tajikistan,Media sources labelled as from Tajikistan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876689,UG,Uganda,Media sources labelled as from Uganda in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876690,AG,Antigua and Barbuda,Media sources labelled as from Antigua and Barbuda in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876691,KH,Cambodia,Media sources labelled as from Cambodia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876692,IS,Iceland,Media sources labelled as from Iceland in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876693,TO,Tonga,Media sources labelled as from Tonga in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876694,GU,Guam,Media sources labelled as from Guam in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876697,DJ,Djibouti,Media sources labelled as from Djibouti in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876698,LI,Liechtenstein,Media sources labelled as from Liechtenstein in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876699,MN,Mongolia,Media sources labelled as from Mongolia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876700,VE,Venezuela,Media sources labelled as from Venezuela in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876702,GH,Ghana,Media sources labelled as from Ghana in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876703,AO,Angola,Media sources labelled as from Angola in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876705,NI,Nicaragua,Media sources labelled as from Nicaragua in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876706,CV,Cape Verde,Media sources labelled as from Cape Verde in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876707,AW,Aruba,Media sources labelled as from Aruba in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876709,CG,Congo,Media sources labelled as from Congo in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876711,MX,Mexico,Media sources labelled as from Mexico in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876712,GM,Gambia,Media sources labelled as from Gambia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876713,ER,Eritrea,Media sources labelled as from Eritrea in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876714,TT,Trinidad and Tobago,Media sources labelled as from Trinidad and Tobago in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876716,ML,Mali,Media sources labelled as from Mali in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876719,BN,Brunei Darussalam,Media sources labelled as from Brunei Darussalam in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876720,JM,Jamaica,Media sources labelled as from Jamaica in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876721,SZ,Swaziland,Media sources labelled as from Swaziland in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876722,VC,Saint Vincent and the Grenadines,Media sources labelled as from Saint Vincent and the Grenadines in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876723,BM,Bermuda,Media sources labelled as from Bermuda in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876726,NU,Niue,Media sources labelled as from Niue in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876727,WS,Samoa,Media sources labelled as from Samoa in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876728,MS,Montserrat,Media sources labelled as from Montserrat in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876729,NC,New Caledonia,Media sources labelled as from New Caledonia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876730,AF,Afghanistan,Media sources labelled as from Afghanistan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876731,UY,Uruguay,Media sources labelled as from Uruguay in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876732,PA,Panama,Media sources labelled as from Panama in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876733,GQ,Equatorial Guinea,Media sources labelled as from Equatorial Guinea in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876735,SL,Sierra Leone,Media sources labelled as from Sierra Leone in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876737,BT,Bhutan,Media sources labelled as from Bhutan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876738,HN,Honduras,Media sources labelled as from Honduras in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876740,MC,Monaco,Media sources labelled as from Monaco in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876741,MZ,Mozambique,Media sources labelled as from Mozambique in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876742,KN,Saint Kitts and Nevis,Media sources labelled as from Saint Kitts and Nevis in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876743,KM,Comoros,Media sources labelled as from Comoros in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876748,FK,Falkland Islands (Malvinas),Media sources labelled as from Falkland Islands (Malvinas) in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876750,GA,Gabon,Media sources labelled as from Gabon in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876751,FJ,Fiji,Media sources labelled as from Fiji in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876752,AI,Anguilla,Media sources labelled as from Anguilla in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876753,LC,Saint Lucia,Media sources labelled as from Saint Lucia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876754,UZ,Uzbekistan,Media sources labelled as from Uzbekistan in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876760,BS,Bahamas,Media sources labelled as from Bahamas in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876763,GW,Guinea-Bissau,Media sources labelled as from Guinea-Bissau in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876764,ZM,Zambia,Media sources labelled as from Zambia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876765,PF,French Polynesia,Media sources labelled as from French Polynesia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876768,MK,Macedonia,Media sources labelled as from Macedonia in the European Media Monitor tool (2014),0,,1,556,emm_country,Europe Media Monitor Countries,
+8876987,gv_blogs_20130329,Global Voices Cited Sources,"List of all sources cited by Global Voices Online (http://globalvoicesonline.org) from 2010 - 2012.  Includes mostly politically, internationally focused blogs.  This is our main media set for broad coverage of international blogs.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8876989,JP,Japan,Media sources linked to by Global Voices articles about Japan (2013),0,,1,597,gv_country,Global Voices Countries,
+8876990,BR,Brazil,Media sources linked to by Global Voices articles about Brazil (2013),0,,1,597,gv_country,Global Voices Countries,
+8876991,HT,Haiti,Media sources linked to by Global Voices articles about Haiti (2013),0,,1,597,gv_country,Global Voices Countries,
+8876992,GN,Guinea,Media sources linked to by Global Voices articles about Guinea (2013),0,,1,597,gv_country,Global Voices Countries,
+8876993,PL,Poland,Media sources linked to by Global Voices articles about Poland (2013),0,,1,597,gv_country,Global Voices Countries,
+8876994,ML,Mali,Media sources linked to by Global Voices articles about Mali (2013),0,,1,597,gv_country,Global Voices Countries,
+8876995,RU,Russian Federation,Media sources linked to by Global Voices articles about Russian Federation (2013),0,,1,597,gv_country,Global Voices Countries,
+8876996,PE,Peru,Media sources linked to by Global Voices articles about Peru (2013),0,,1,597,gv_country,Global Voices Countries,
+8876997,CN,China,Media sources linked to by Global Voices articles about China (2013),0,,1,597,gv_country,Global Voices Countries,
+8876998,IR,"Iran, Islamic Republic of","Media sources linked to by Global Voices articles about Iran, Islamic Republic of (2013)",0,,1,597,gv_country,Global Voices Countries,
+8876999,CV,Cape Verde,Media sources linked to by Global Voices articles about Cape Verde (2013),0,,1,597,gv_country,Global Voices Countries,
+8877000,IN,India,Media sources linked to by Global Voices articles about India (2013),0,,1,597,gv_country,Global Voices Countries,
+8877001,PH,Philippines,Media sources linked to by Global Voices articles about Philippines (2013),0,,1,597,gv_country,Global Voices Countries,
+8877002,ID,Indonesia,Media sources linked to by Global Voices articles about Indonesia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877003,MX,Mexico,Media sources linked to by Global Voices articles about Mexico (2013),0,,1,597,gv_country,Global Voices Countries,
+8877004,BH,Bahrain,Media sources linked to by Global Voices articles about Bahrain (2013),0,,1,597,gv_country,Global Voices Countries,
+8877005,TL,Timor-Leste,Media sources linked to by Global Voices articles about Timor-Leste (2013),0,,1,597,gv_country,Global Voices Countries,
+8877006,EG,Egypt,Media sources linked to by Global Voices articles about Egypt (2013),0,,1,597,gv_country,Global Voices Countries,
+8877007,SY,Syrian Arab Republic,Media sources linked to by Global Voices articles about Syrian Arab Republic (2013),0,,1,597,gv_country,Global Voices Countries,
+8877008,US,United States,Media sources linked to by Global Voices articles about United States (2013),0,,1,597,gv_country,Global Voices Countries,
+8877009,LA,Lao People's Democratic Republic,Media sources linked to by Global Voices articles about Lao People's Democratic Republic (2013),0,,1,597,gv_country,Global Voices Countries,
+8877010,ZA,South Africa,Media sources linked to by Global Voices articles about South Africa (2013),0,,1,597,gv_country,Global Voices Countries,
+8877011,BD,Bangladesh,Media sources linked to by Global Voices articles about Bangladesh (2013),0,,1,597,gv_country,Global Voices Countries,
+8877012,DK,Denmark,Media sources linked to by Global Voices articles about Denmark (2013),0,,1,597,gv_country,Global Voices Countries,
+8877013,MA,Morocco,Media sources linked to by Global Voices articles about Morocco (2013),0,,1,597,gv_country,Global Voices Countries,
+8877014,AZ,Azerbaijan,Media sources linked to by Global Voices articles about Azerbaijan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877015,DZ,Algeria,Media sources linked to by Global Voices articles about Algeria (2013),0,,1,597,gv_country,Global Voices Countries,
+8877016,DE,Germany,Media sources linked to by Global Voices articles about Germany (2013),0,,1,597,gv_country,Global Voices Countries,
+8877017,TW,"Taiwan, Province of China","Media sources linked to by Global Voices articles about Taiwan, Province of China (2013)",0,,1,597,gv_country,Global Voices Countries,
+8877018,SI,Slovenia,Media sources linked to by Global Voices articles about Slovenia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877019,CO,Colombia,Media sources linked to by Global Voices articles about Colombia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877020,CR,Costa Rica,Media sources linked to by Global Voices articles about Costa Rica (2013),0,,1,597,gv_country,Global Voices Countries,
+8877021,GE,Georgia,Media sources linked to by Global Voices articles about Georgia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877022,PK,Pakistan,Media sources linked to by Global Voices articles about Pakistan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877023,KE,Kenya,Media sources linked to by Global Voices articles about Kenya (2013),0,,1,597,gv_country,Global Voices Countries,
+8877024,LB,Lebanon,Media sources linked to by Global Voices articles about Lebanon (2013),0,,1,597,gv_country,Global Voices Countries,
+8877025,MY,Malaysia,Media sources linked to by Global Voices articles about Malaysia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877026,BN,Brunei Darussalam,Media sources linked to by Global Voices articles about Brunei Darussalam (2013),0,,1,597,gv_country,Global Voices Countries,
+8877028,GT,Guatemala,Media sources linked to by Global Voices articles about Guatemala (2013),0,,1,597,gv_country,Global Voices Countries,
+8877029,MG,Madagascar,Media sources linked to by Global Voices articles about Madagascar (2013),0,,1,597,gv_country,Global Voices Countries,
+8877030,IT,Italy,Media sources linked to by Global Voices articles about Italy (2013),0,,1,597,gv_country,Global Voices Countries,
+8877031,MV,Maldives,Media sources linked to by Global Voices articles about Maldives (2013),0,,1,597,gv_country,Global Voices Countries,
+8877032,TT,Trinidad and Tobago,Media sources linked to by Global Voices articles about Trinidad and Tobago (2013),0,,1,597,gv_country,Global Voices Countries,
+8877033,KZ,Kazakhstan,Media sources linked to by Global Voices articles about Kazakhstan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877034,GH,Ghana,Media sources linked to by Global Voices articles about Ghana (2013),0,,1,597,gv_country,Global Voices Countries,
+8877035,UY,Uruguay,Media sources linked to by Global Voices articles about Uruguay (2013),0,,1,597,gv_country,Global Voices Countries,
+8877036,JO,Jordan,Media sources linked to by Global Voices articles about Jordan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877037,UA,Ukraine,Media sources linked to by Global Voices articles about Ukraine (2013),0,,1,597,gv_country,Global Voices Countries,
+8877038,EC,Ecuador,Media sources linked to by Global Voices articles about Ecuador (2013),0,,1,597,gv_country,Global Voices Countries,
+8877039,MW,Malawi,Media sources linked to by Global Voices articles about Malawi (2013),0,,1,597,gv_country,Global Voices Countries,
+8877040,VE,Venezuela,Media sources linked to by Global Voices articles about Venezuela (2013),0,,1,597,gv_country,Global Voices Countries,
+8877041,BG,Bulgaria,Media sources linked to by Global Voices articles about Bulgaria (2013),0,,1,597,gv_country,Global Voices Countries,
+8877042,LK,Sri Lanka,Media sources linked to by Global Voices articles about Sri Lanka (2013),0,,1,597,gv_country,Global Voices Countries,
+8877043,MK,Macedonia,Media sources linked to by Global Voices articles about Macedonia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877044,PS,"Palestinian Territory, Occupied","Media sources linked to by Global Voices articles about Palestinian Territory, Occupied (2013)",0,,1,597,gv_country,Global Voices Countries,
+8877045,FI,Finland,Media sources linked to by Global Voices articles about Finland (2013),0,,1,597,gv_country,Global Voices Countries,
+8877046,PR,Puerto Rico,Media sources linked to by Global Voices articles about Puerto Rico (2013),0,,1,597,gv_country,Global Voices Countries,
+8877047,LR,Liberia,Media sources linked to by Global Voices articles about Liberia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877048,SG,Singapore,Media sources linked to by Global Voices articles about Singapore (2013),0,,1,597,gv_country,Global Voices Countries,
+8877049,ZW,Zimbabwe,Media sources linked to by Global Voices articles about Zimbabwe (2013),0,,1,597,gv_country,Global Voices Countries,
+8877050,KR,"Korea, Republic of","Media sources linked to by Global Voices articles about Korea, Republic of (2013)",0,,1,597,gv_country,Global Voices Countries,
+8877051,NI,Nicaragua,Media sources linked to by Global Voices articles about Nicaragua (2013),0,,1,597,gv_country,Global Voices Countries,
+8877052,HK,Hong Kong,Media sources linked to by Global Voices articles about Hong Kong (2013),0,,1,597,gv_country,Global Voices Countries,
+8877053,FR,France,Media sources linked to by Global Voices articles about France (2013),0,,1,597,gv_country,Global Voices Countries,
+8877054,SV,El Salvador,Media sources linked to by Global Voices articles about El Salvador (2013),0,,1,597,gv_country,Global Voices Countries,
+8877055,UZ,Uzbekistan,Media sources linked to by Global Voices articles about Uzbekistan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877056,TH,Thailand,Media sources linked to by Global Voices articles about Thailand (2013),0,,1,597,gv_country,Global Voices Countries,
+8877057,BT,Bhutan,Media sources linked to by Global Voices articles about Bhutan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877058,AF,Afghanistan,Media sources linked to by Global Voices articles about Afghanistan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877059,BO,Bolivia,Media sources linked to by Global Voices articles about Bolivia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877060,SA,Saudi Arabia,Media sources linked to by Global Voices articles about Saudi Arabia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877061,NL,Netherlands,Media sources linked to by Global Voices articles about Netherlands (2013),0,,1,597,gv_country,Global Voices Countries,
+8877062,BW,Botswana,Media sources linked to by Global Voices articles about Botswana (2013),0,,1,597,gv_country,Global Voices Countries,
+8877063,GB,United Kingdom,Media sources linked to by Global Voices articles about United Kingdom (2013),0,,1,597,gv_country,Global Voices Countries,
+8877064,IL,Israel,Media sources linked to by Global Voices articles about Israel (2013),0,,1,597,gv_country,Global Voices Countries,
+8877065,AR,Argentina,Media sources linked to by Global Voices articles about Argentina (2013),0,,1,597,gv_country,Global Voices Countries,
+8877066,PY,Paraguay,Media sources linked to by Global Voices articles about Paraguay (2013),0,,1,597,gv_country,Global Voices Countries,
+8877067,KW,Kuwait,Media sources linked to by Global Voices articles about Kuwait (2013),0,,1,597,gv_country,Global Voices Countries,
+8877068,AU,Australia,Media sources linked to by Global Voices articles about Australia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877069,MQ,Martinique,Media sources linked to by Global Voices articles about Martinique (2013),0,,1,597,gv_country,Global Voices Countries,
+8877070,IQ,Iraq,Media sources linked to by Global Voices articles about Iraq (2013),0,,1,597,gv_country,Global Voices Countries,
+8877071,KG,Kyrgyzstan,Media sources linked to by Global Voices articles about Kyrgyzstan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877072,ET,Ethiopia,Media sources linked to by Global Voices articles about Ethiopia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877073,SD,Sudan,Media sources linked to by Global Voices articles about Sudan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877074,TN,Tunisia,Media sources linked to by Global Voices articles about Tunisia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877075,OM,Oman,Media sources linked to by Global Voices articles about Oman (2013),0,,1,597,gv_country,Global Voices Countries,
+8877076,CI,Cote D'Ivoire,Media sources linked to by Global Voices articles about Cote D'Ivoire (2013),0,,1,597,gv_country,Global Voices Countries,
+8877077,JM,Jamaica,Media sources linked to by Global Voices articles about Jamaica (2013),0,,1,597,gv_country,Global Voices Countries,
+8877078,RS,Serbia,Media sources linked to by Global Voices articles about Serbia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877079,TZ,"Tanzania, United Republic of","Media sources linked to by Global Voices articles about Tanzania, United Republic of (2013)",0,,1,597,gv_country,Global Voices Countries,
+8877080,TG,Togo,Media sources linked to by Global Voices articles about Togo (2013),0,,1,597,gv_country,Global Voices Countries,
+8877081,BY,Belarus,Media sources linked to by Global Voices articles about Belarus (2013),0,,1,597,gv_country,Global Voices Countries,
+8877082,UG,Uganda,Media sources linked to by Global Voices articles about Uganda (2013),0,,1,597,gv_country,Global Voices Countries,
+8877083,HU,Hungary,Media sources linked to by Global Voices articles about Hungary (2013),0,,1,597,gv_country,Global Voices Countries,
+8877084,FJ,Fiji,Media sources linked to by Global Voices articles about Fiji (2013),0,,1,597,gv_country,Global Voices Countries,
+8877085,MM,Myanmar,Media sources linked to by Global Voices articles about Myanmar (2013),0,,1,597,gv_country,Global Voices Countries,
+8877086,RW,Rwanda,Media sources linked to by Global Voices articles about Rwanda (2013),0,,1,597,gv_country,Global Voices Countries,
+8877087,KH,Cambodia,Media sources linked to by Global Voices articles about Cambodia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877088,GR,Greece,Media sources linked to by Global Voices articles about Greece (2013),0,,1,597,gv_country,Global Voices Countries,
+8877089,NG,Nigeria,Media sources linked to by Global Voices articles about Nigeria (2013),0,,1,597,gv_country,Global Voices Countries,
+8877090,QA,Qatar,Media sources linked to by Global Voices articles about Qatar (2013),0,,1,597,gv_country,Global Voices Countries,
+8877091,CL,Chile,Media sources linked to by Global Voices articles about Chile (2013),0,,1,597,gv_country,Global Voices Countries,
+8877092,MZ,Mozambique,Media sources linked to by Global Voices articles about Mozambique (2013),0,,1,597,gv_country,Global Voices Countries,
+8877093,CM,Cameroon,Media sources linked to by Global Voices articles about Cameroon (2013),0,,1,597,gv_country,Global Voices Countries,
+8877094,AO,Angola,Media sources linked to by Global Voices articles about Angola (2013),0,,1,597,gv_country,Global Voices Countries,
+8877095,NP,Nepal,Media sources linked to by Global Voices articles about Nepal (2013),0,,1,597,gv_country,Global Voices Countries,
+8877096,CD,"Congo, The Democratic Republic of the","Media sources linked to by Global Voices articles about Congo, The Democratic Republic of the (2013)",0,,1,597,gv_country,Global Voices Countries,
+8877097,NE,Niger,Media sources linked to by Global Voices articles about Niger (2013),0,,1,597,gv_country,Global Voices Countries,
+8877098,GA,Gabon,Media sources linked to by Global Voices articles about Gabon (2013),0,,1,597,gv_country,Global Voices Countries,
+8877099,CA,Canada,Media sources linked to by Global Voices articles about Canada (2013),0,,1,597,gv_country,Global Voices Countries,
+8877100,DO,Dominican Republic,Media sources linked to by Global Voices articles about Dominican Republic (2013),0,,1,597,gv_country,Global Voices Countries,
+8877101,AL,Albania,Media sources linked to by Global Voices articles about Albania (2013),0,,1,597,gv_country,Global Voices Countries,
+8877103,HN,Honduras,Media sources linked to by Global Voices articles about Honduras (2013),0,,1,597,gv_country,Global Voices Countries,
+8877104,GW,Guinea-Bissau,Media sources linked to by Global Voices articles about Guinea-Bissau (2013),0,,1,597,gv_country,Global Voices Countries,
+8877105,VN,Vietnam,Media sources linked to by Global Voices articles about Vietnam (2013),0,,1,597,gv_country,Global Voices Countries,
+8877106,CU,Cuba,Media sources linked to by Global Voices articles about Cuba (2013),0,,1,597,gv_country,Global Voices Countries,
+8877107,ZM,Zambia,Media sources linked to by Global Voices articles about Zambia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877108,AE,United Arab Emirates,Media sources linked to by Global Voices articles about United Arab Emirates (2013),0,,1,597,gv_country,Global Voices Countries,
+8877109,VC,Saint Vincent and the Grenadines,Media sources linked to by Global Voices articles about Saint Vincent and the Grenadines (2013),0,,1,597,gv_country,Global Voices Countries,
+8877110,PT,Portugal,Media sources linked to by Global Voices articles about Portugal (2013),0,,1,597,gv_country,Global Voices Countries,
+8877111,PA,Panama,Media sources linked to by Global Voices articles about Panama (2013),0,,1,597,gv_country,Global Voices Countries,
+8877112,MN,Mongolia,Media sources linked to by Global Voices articles about Mongolia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877113,MR,Mauritania,Media sources linked to by Global Voices articles about Mauritania (2013),0,,1,597,gv_country,Global Voices Countries,
+8877114,SR,Suriname,Media sources linked to by Global Voices articles about Suriname (2013),0,,1,597,gv_country,Global Voices Countries,
+8877115,BB,Barbados,Media sources linked to by Global Voices articles about Barbados (2013),0,,1,597,gv_country,Global Voices Countries,
+8877116,HR,Croatia,Media sources linked to by Global Voices articles about Croatia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877117,EH,Western Sahara,Media sources linked to by Global Voices articles about Western Sahara (2013),0,,1,597,gv_country,Global Voices Countries,
+8877118,BM,Bermuda,Media sources linked to by Global Voices articles about Bermuda (2013),0,,1,597,gv_country,Global Voices Countries,
+8877119,ES,Spain,Media sources linked to by Global Voices articles about Spain (2013),0,,1,597,gv_country,Global Voices Countries,
+8877120,AG,Antigua and Barbuda,Media sources linked to by Global Voices articles about Antigua and Barbuda (2013),0,,1,597,gv_country,Global Voices Countries,
+8877121,AI,Anguilla,Media sources linked to by Global Voices articles about Anguilla (2013),0,,1,597,gv_country,Global Voices Countries,
+8877122,CG,Congo,Media sources linked to by Global Voices articles about Congo (2013),0,,1,597,gv_country,Global Voices Countries,
+8877123,GY,Guyana,Media sources linked to by Global Voices articles about Guyana (2013),0,,1,597,gv_country,Global Voices Countries,
+8877124,MD,"Moldova, Republic of","Media sources linked to by Global Voices articles about Moldova, Republic of (2013)",0,,1,597,gv_country,Global Voices Countries,
+8877125,CZ,Czech Republic,Media sources linked to by Global Voices articles about Czech Republic (2013),0,,1,597,gv_country,Global Voices Countries,
+8877126,ER,Eritrea,Media sources linked to by Global Voices articles about Eritrea (2013),0,,1,597,gv_country,Global Voices Countries,
+8877127,AM,Armenia,Media sources linked to by Global Voices articles about Armenia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877128,GP,Guadeloupe,Media sources linked to by Global Voices articles about Guadeloupe (2013),0,,1,597,gv_country,Global Voices Countries,
+8877129,NA,Namibia,Media sources linked to by Global Voices articles about Namibia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877130,TR,Turkey,Media sources linked to by Global Voices articles about Turkey (2013),0,,1,597,gv_country,Global Voices Countries,
+8877131,LV,Latvia,Media sources linked to by Global Voices articles about Latvia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877132,BS,Bahamas,Media sources linked to by Global Voices articles about Bahamas (2013),0,,1,597,gv_country,Global Voices Countries,
+8877133,LY,Libyan Arab Jamahiriya,Media sources linked to by Global Voices articles about Libyan Arab Jamahiriya (2013),0,,1,597,gv_country,Global Voices Countries,
+8877134,SL,Sierra Leone,Media sources linked to by Global Voices articles about Sierra Leone (2013),0,,1,597,gv_country,Global Voices Countries,
+8877135,SC,Seychelles,Media sources linked to by Global Voices articles about Seychelles (2013),0,,1,597,gv_country,Global Voices Countries,
+8877136,SK,Slovakia,Media sources linked to by Global Voices articles about Slovakia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877137,BF,Burkina Faso,Media sources linked to by Global Voices articles about Burkina Faso (2013),0,,1,597,gv_country,Global Voices Countries,
+8877138,BA,Bosnia and Herzegovina,Media sources linked to by Global Voices articles about Bosnia and Herzegovina (2013),0,,1,597,gv_country,Global Voices Countries,
+8877139,CH,Switzerland,Media sources linked to by Global Voices articles about Switzerland (2013),0,,1,597,gv_country,Global Voices Countries,
+8877140,SN,Senegal,Media sources linked to by Global Voices articles about Senegal (2013),0,,1,597,gv_country,Global Voices Countries,
+8877141,MU,Mauritius,Media sources linked to by Global Voices articles about Mauritius (2013),0,,1,597,gv_country,Global Voices Countries,
+8877142,ST,Sao Tome and Principe,Media sources linked to by Global Voices articles about Sao Tome and Principe (2013),0,,1,597,gv_country,Global Voices Countries,
+8877143,RO,Romania,Media sources linked to by Global Voices articles about Romania (2013),0,,1,597,gv_country,Global Voices Countries,
+8877144,BJ,Benin,Media sources linked to by Global Voices articles about Benin (2013),0,,1,597,gv_country,Global Voices Countries,
+8877145,AW,Aruba,Media sources linked to by Global Voices articles about Aruba (2013),0,,1,597,gv_country,Global Voices Countries,
+8877146,AS,American Samoa,Media sources linked to by Global Voices articles about American Samoa (2013),0,,1,597,gv_country,Global Voices Countries,
+8877147,LC,Saint Lucia,Media sources linked to by Global Voices articles about Saint Lucia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877148,SO,Somalia,Media sources linked to by Global Voices articles about Somalia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877149,GM,Gambia,Media sources linked to by Global Voices articles about Gambia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877150,TM,Turkmenistan,Media sources linked to by Global Voices articles about Turkmenistan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877151,DM,Dominica,Media sources linked to by Global Voices articles about Dominica (2013),0,,1,597,gv_country,Global Voices Countries,
+8877152,VI,"Virgin Islands, U.S.","Media sources linked to by Global Voices articles about Virgin Islands, U.S. (2013)",0,,1,597,gv_country,Global Voices Countries,
+8877153,EE,Estonia,Media sources linked to by Global Voices articles about Estonia (2013),0,,1,597,gv_country,Global Voices Countries,
+8877154,DJ,Djibouti,Media sources linked to by Global Voices articles about Djibouti (2013),0,,1,597,gv_country,Global Voices Countries,
+8877155,PG,Papua New Guinea,Media sources linked to by Global Voices articles about Papua New Guinea (2013),0,,1,597,gv_country,Global Voices Countries,
+8877156,YE,Yemen,Media sources linked to by Global Voices articles about Yemen (2013),0,,1,597,gv_country,Global Voices Countries,
+8877157,TJ,Tajikistan,Media sources linked to by Global Voices articles about Tajikistan (2013),0,,1,597,gv_country,Global Voices Countries,
+8877158,KM,Comoros,Media sources linked to by Global Voices articles about Comoros (2013),0,,1,597,gv_country,Global Voices Countries,
+8877159,CF,Central African Republic,Media sources linked to by Global Voices articles about Central African Republic (2013),0,,1,597,gv_country,Global Voices Countries,
+8877160,ME,Montenegro,Media sources linked to by Global Voices articles about Montenegro (2013),0,,1,597,gv_country,Global Voices Countries,
+8877968,brazil_20131009,Brazil Media,"About 1200 sources from Brazil, manually selected in January 2013 from Alexa's list of the most visited sites in Brazil.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8878292,partisan_2012_conservative,U.S. Partisan Sources 2012 - Conservative,List of sites generated by clustering and manually sites discussion the 2012 U.S. presidential election.  This set includes only sources coded as clearly conservative.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8878293,partisan_2012_liberal,U.S. Partisan Sources 2012 - Liberal,List of sites generated by clustering and manually sites discussion the 2012 U.S. presidential election.  This set includes only sources coded as clearly liberal.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8878294,partisan_2012_libertarian,U.S. Partisan Sources 2012 - Libertarian,List of sites generated by clustering and manually sites discussion the 2012 U.S. presidential election.  This set includes only sources coded as clearly libertarian.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8878332,srhr_20140527,Sexual and Reproductive Health and Rights,"manually curated list of sites relating to sexual and reproductive health, collected in 2014",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+8878413,Independent Group,Ind. Group,"An academic or nonprofit group that is not affiliated with the private sector or government, such as the Electronic Frontier Foundation or the Center for Democracy and Technology)",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878414,Social Linking Site,Social Linking,"A site that aggregates links based at least partially on user submissions and/or ranking, such as Reddit, Digg, Slashdot, MetaFilter, StumbleUpon, and other social news sites",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878415,Blog,Blog,"A web log, written by one or more individuals, that is not associated with a professional or advocacy organization or institution",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878416,General Online News Media,General News,"A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878418,Issue Specific Campaign,Issue,A site specifically dedicated to campaigning for or against a single issue.,0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878419,News Aggregator,News Agg.,"A site that contains little to no original content and compiles news from other sites, such as Yahoo News or Google News",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878420,Tech Media,Tech Media,"A site that focuses on technological news and information produced by a news organization, such as Arstechnica, Techdirt, or Wired.com",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878421,Private Sector,Private Sec.,"A non-news media for-profit actor, including, for instance, trade organizations, industry sites, and domain registrars",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878422,Government,Government,"A site associated with and run by a government-affiliated entity, such as the DOJ website, White House blog, or a U.S. Senator official website",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878423,User-Generated Content Platform,User Gen.,"A general communication and networking platform or tool, like Wikipedia, YouTube, Twitter, and Scribd, or a search engine like Google or speech platform like the Daily Kos",0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878428,Not Typed,Not Typed,The medium has not yet been typed.,0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+8878429,Other,Other,The medium does not fit in any listed type.,0,,1,1099,media_type,Media Type,High level topology for media sources for use across a variety of different topics
+9094533,mexico_20150706,Mexico,Manually curated list of Mexican sources.  Added 2015-07-06.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9139458,pew_top_50_digital_20160225,U.S. Top Digital Native News,Top 50 digital native news sites according to Pew / Comscore as of 2015.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9139487,pew_top_50_news_20160225,U.S. Top Online News,Top 50 online news sites according to Pew / Comscore as of 2015.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9173065,nigeria_composite,Nigeria,"A composite of various lists we have made over time for Nigeria media sources.  Some began collecting 2014-10-17, others were add 2016-03-21.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9201395,india_all_20160509,India,Manually curated set of Indian sources.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9213928,african_american_media_20160527,African American Media,Media sources focusing on African American content and issues.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9228386,Native American Media,Native American Media,Created for the Robert Wood Johnson Foundation in June of 2016,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9272347,abyz_nationalsources_allcountries_english_20160816,ABYZ Global English Sources ,"First iteration of ABYZ sources in English listed as ""national"" for every country in the ABYZ directory of online news sources. This contains around 1,500 sources. ",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9273433,kenya_composite,Kenya,"A composite of various collections created over time for Kenyan media sources, created on 2016-08-16.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9297151,us_hispanic_election_20160914,US Hispanic Election,US-based hispanic sources used in our 2016 election investigation.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9315147,UK National ABYZ,UK National ABYZ,UK National sources from ABYZ News Links.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9319462,Denmark ABZY,Denmark ABZY,Collection of Danish sources created in October 2016,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9325106,india_hindi_20161026,Indian Hindi Language,Sources published in India in the Hindi language.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9349925,superglue,TV News Channels,"Content from the closed captions of major american TV news stations and shows. Each source is the TV station; each story represents a ""segment"" within a show; the title of a story is the TV show the segment is from.  This content, and the automated segment detection, is thanks to the MIT Media Lab SuperGlue project.",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9351677,pakistan_english_abyz_20161216,Pakistan English ABYZ,Pakistan English-language sources from ABYZ News Links.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9353685,chile_abyz_20161223,Chile ABYZ,"Chilean sources from ABYZ News Links.
+",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9353688,mexico_abyz_20161223,Mexico ABYZ,Mexican sources from ABYZ News Links.,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9353689,peru_abyz_20161223,Peru ABYZ,"Peruvian sources from ABYZ News Links.
+",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9359876,cindy collection 8,cindy collection 8,sdf,0,1,0,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9360532,fake_news_buzzfeed_2016,Fake News - Buzzfeed,"List of fake news sites from the Buzfeed 2016 fake news report:
+
+https://www.buzzfeed.com/craigsilverman/top-fake-news-of-2016",0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9360533,gender,Feminism/Women Issues/Gender Issues,Story matched the classifier trained on stories in the NYT about Feminism/Women Issues/Gender Issues,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360534,arts,Arts,Story matched the classifier trained on stories in the NYT about Arts,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360535,fashion,Fashion,Story matched the classifier trained on stories in the NYT about Fashion,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360536,sports,Sports,Story matched the classifier trained on stories in the NYT about Sports,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360537,food,Food,Story matched the classifier trained on stories in the NYT about Food,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360538,auto,Auto,Story matched the classifier trained on stories in the NYT about Auto,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360539,energy,Energy,Story matched the classifier trained on stories in the NYT about Energy,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360540,science_tech,Science and Technology,Story matched the classifier trained on stories in the NYT about Science and Technology,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360541,disasters,Accident and Disasters,Story matched the classifier trained on stories in the NYT about Accident and Disasters,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360542,sexuality,Sexuality,Story matched the classifier trained on stories in the NYT about Sexuality,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360543,environment,Environment,Story matched the classifier trained on stories in the NYT about Environment,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360544,religion,Religion,Story matched the classifier trained on stories in the NYT about Religion,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360545,business,Economy and Business,Story matched the classifier trained on stories in the NYT about Economy and Business,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360546,health,Health,Story matched the classifier trained on stories in the NYT about Health,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360547,weather,Weather,Story matched the classifier trained on stories in the NYT about Weather,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360548,politics,Politics,Story matched the classifier trained on stories in the NYT about Politics,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360549,education,Education,Story matched the classifier trained on stories in the NYT about Education,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360550,agriculture,Agriculture,Story matched the classifier trained on stories in the NYT about Agriculture,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360551,travel,Travel,Story matched the classifier trained on stories in the NYT about Travel,1,1,,1961,nyt_sections,NYT Sections,Tags for stories based on models trained against the NYT corpus
+9360553,USA_AL,"AL, USA","Published in Alabama, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360554,USA_AK,"AK, USA","Published in Alaska, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360555,USA_AS,"AS, USA","Published in American Samoa, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360556,USA_AZ,"AZ, USA","Published in Arizona, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360557,USA_AR,"AR, USA","Published in Arkansas, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360558,USA_CA,"CA, USA","Published in California, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360559,USA_CO,"CO, USA","Published in Colorado, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360560,USA_CT,"CT, USA","Published in Connecticut, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360561,USA_DE,"DE, USA","Published in Delaware, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360562,USA_DC,"DC, USA","Published in District of Columbia, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360563,USA_FM,"FM, USA","Published in Federated States of Micronesia, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360564,USA_FL,"FL, USA","Published in Florida, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360565,USA_GA,"GA, USA","Published in Georgia, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360566,USA_GU,"GU, USA","Published in Guam, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360567,USA_HI,"HI, USA","Published in Hawaii, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360568,USA_ID,"ID, USA","Published in Idaho, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360569,USA_IL,"IL, USA","Published in Illinois, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360570,USA_IN,"IN, USA","Published in Indiana, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360571,USA_IA,"IA, USA","Published in Iowa, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360572,USA_KS,"KS, USA","Published in Kansas, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360573,USA_KY,"KY, USA","Published in Kentucky, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360574,USA_LA,"LA, USA","Published in Louisiana, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360575,USA_ME,"ME, USA","Published in Maine, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360576,USA_MH,"MH, USA","Published in Marshall Islands, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360577,USA_MD,"MD, USA","Published in Maryland, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360578,USA_MA,"MA, USA","Published in Massachusetts, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360579,USA_MI,"MI, USA","Published in Michigan, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360580,USA_MN,"MN, USA","Published in Minnesota, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360581,USA_MS,"MS, USA","Published in Mississippi, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360582,USA_MO,"MO, USA","Published in Missouri, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360583,USA_MT,"MT, USA","Published in Montana, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360584,USA_NE,"NE, USA","Published in Nebraska, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360585,USA_NV,"NV, USA","Published in Nevada, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360586,USA_NH,"NH, USA","Published in New Hampshire, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360587,USA_NJ,"NJ, USA","Published in New Jersey, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360588,USA_NM,"NM, USA","Published in New Mexico, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360589,USA_NY,"NY, USA","Published in New York, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360590,USA_NC,"NC, USA","Published in North Carolina, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360591,USA_ND,"ND, USA","Published in North Dakota, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360592,USA_MP,"MP, USA","Published in Northern Mariana Islands, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360593,USA_OH,"OH, USA","Published in Ohio, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360594,USA_OK,"OK, USA","Published in Oklahoma, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360595,USA_OR,"OR, USA","Published in Oregon, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360596,USA_PW,"PW, USA","Published in Palau, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360597,USA_PA,"PA, USA","Published in Pennsylvania, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360598,USA_PR,"PR, USA","Published in Puerto Rico, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360599,USA_RI,"RI, USA","Published in Rhode Island, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360600,USA_SC,"SC, USA","Published in South Carolina, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360601,USA_SD,"SD, USA","Published in South Dakota, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360602,USA_TN,"TN, USA","Published in Tennessee, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360603,USA_TX,"TX, USA","Published in Texas, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360604,USA_UT,"UT, USA","Published in Utah, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360605,USA_VT,"VT, USA","Published in Vermont, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360606,USA_VI,"VI, USA","Published in Virgin Islands, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360607,USA_VA,"VA, USA","Published in Virginia, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360608,USA_WA,"WA, USA","Published in Washington, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360609,USA_WV,"WV, USA","Published in West Virginia, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360610,USA_WI,"WI, USA","Published in Wisconsin, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360611,USA_WY,"WY, USA","Published in Wyoming, USA",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360612,IND_AN,"Andaman and Nicobar Islands, India","Published in the Union territory of Andaman and Nicobar Islands, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360613,IND_AP,"Andhra Pradesh, India","Published in the state of Andhra Pradesh, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360614,IND_AR,"Arunachal Pradesh, India","Published in the state of Arunachal Pradesh, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360615,IND_AS,"Assam, India","Published in the state of Assam, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360616,IND_BR,"Bihar, India","Published in the state of Bihar, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360617,IND_CH,"Chandigarh, India","Published in the Union territory of Chandigarh, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360618,IND_CT,"Chhattisgarh, India","Published in the state of Chhattisgarh, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360619,IND_DD,"Daman and Diu, India","Published in the Union territory of Daman and Diu, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360620,IND_DL,"Delhi, India","Published in the Union territory of Delhi, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360621,IND_DN,"Dadra and Nagar Haveli, India","Published in the Union territory of Dadra and Nagar Haveli, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360622,IND_GA,"Goa, India","Published in the state of Goa, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360623,IND_GJ,"Gujarat, India","Published in the state of Gujarat, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360624,IND_HP,"Himachal Pradesh, India","Published in the state of Himachal Pradesh, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360625,IND_HR,"Haryana, India","Published in the state of Haryana, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360626,IND_JH,"Jharkhand, India","Published in the state of Jharkhand, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360627,IND_JK,"Jammu and Kashmir, India","Published in the state of Jammu and Kashmir, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360628,IND_KA,"Karnataka, India","Published in the state of Karnataka, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360629,IND_KL,"Kerala, India","Published in the state of Kerala, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360630,IND_LD,"Lakshadweep, India","Published in the Union territory of Lakshadweep, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360631,IND_MH,"Maharashtra, India","Published in the state of Maharashtra, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360632,IND_ML,"Meghalaya, India","Published in the state of Meghalaya, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360633,IND_MN,"Manipur, India","Published in the state of Manipur, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360634,IND_MP,"Madhya Pradesh, India","Published in the state of Madhya Pradesh, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360635,IND_MZ,"Mizoram, India","Published in the state of Mizoram, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360636,IND_NL,"Nagaland, India","Published in the state of Nagaland, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360637,IND_OR,"Odisha, India","Published in the state of Odisha, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360638,IND_PB,"Punjab, India","Published in the state of Punjab, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360639,IND_PY,"Puducherry, India","Published in the Union territory of Puducherry, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360640,IND_RJ,"Rajasthan, India","Published in the state of Rajasthan, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360641,IND_SK,"Sikkim, India","Published in the state of Sikkim, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360642,IND_TG,"Telangana, India","Published in the state of Telangana, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360643,IND_TN,"Tamil Nadu, India","Published in the state of Tamil Nadu, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360644,IND_TR,"Tripura, India","Published in the state of Tripura, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360645,IND_UP,"Uttar Pradesh, India","Published in the state of Uttar Pradesh, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360646,IND_UT,"Uttarakhand, India","Published in the state of Uttarakhand, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360647,IND_WB,"West Bengal, India","Published in the state of West Bengal, India",1,1,0,1962,pub_state,Publication State,The state a media source is published in.
+9360654,Pakistan NewsFrames,Pakistan NewsFrames,Created for Global Voices NewsFrames project in March 2017 with sources in different languages,0,,1,5,collection,Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics."
+9360669,nyt_labeller_v1.0.0,NYT Labeller v1.0.0,This story was labelled using the NYT Labeller v1.0.0,0,1,0,1964,nyt_labels_version,NYT Labelling Versions,Versions of our NYT-based topic labeller.
